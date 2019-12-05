@@ -1,6 +1,6 @@
 This is an exploratory project on how to implement a classification task on satelite imagery.
 
-Its coming from a very a place of curiosity and ending up in a place with a few answers, but mostly more curiosity.
+Its coming from a place of curiosity and ending up in a place with a few answers, but mostly more curiosity.  I learned a lot along the way, and look forward to being able to apply these ideas to future projects.
 
 Some caviats about this repo:
 
